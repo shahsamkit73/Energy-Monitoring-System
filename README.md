@@ -8,6 +8,7 @@ Energy is the most salient part of our life nowadays. It has also been pivotal a
 * #### MODBUS coommunication module - [RS-485](https://www.amazon.in/Generic-Max485-Rs-485-Arduino-Raspberry/dp/B01EE3N83Y)
 * #### Arduino Environment - [ArduinoIDE](https://www.arduino.cc/en/software)
 * #### MODBUS library - [ModbusMaster](https://github.com/4-20ma/ModbusMaster)
+* #### MODBUS Software - [Simply Modbus](https://www.simplymodbus.ca/RTUmaster.htm)
 
 ### How to install ESP32 in Arduino IDE :
 1. In arduino IDE, go to **File > Preference**
