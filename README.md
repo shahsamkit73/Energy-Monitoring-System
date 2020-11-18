@@ -35,7 +35,7 @@ Energy is the most salient part of our life nowadays. It has also been pivotal a
 | - | B | D- |
 
 <p align="center">
-  <img width="3000" height="565" src="https://user-images.githubusercontent.com/43854300/99538313-cf234c00-29d2-11eb-8581-36d8e25af3e4.PNG">
+  <img width="3000" height="500" src="https://user-images.githubusercontent.com/43854300/99538313-cf234c00-29d2-11eb-8581-36d8e25af3e4.PNG">
 </p>
 
 #### Modbus Library Function ####
