@@ -31,8 +31,8 @@ Energy is the most salient part of our life nowadays. It has also been pivotal a
 | GPIO 15 | RE | - |
 | 3.3v | VCC | - |
 | GND | GND | - |
-|  | A | D+ |
-|  | B | D- |
+| - | A | D+ |
+| - | B | D- |
 
 #### Modbus Library Function ####
 
