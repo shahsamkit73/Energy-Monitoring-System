@@ -25,8 +25,8 @@ Energy is the most salient part of our life nowadays. It has also been pivotal a
 
 | ESP32  | RS485 | Energy  Meter |
 | :-------------: | :-------------: | :-------------: |
-| GPIO 3 | RO | <td rowspan=6></td> |
-| GPIO 1 | DI | - |
+| GPIO 3 | RO | <td rowspan=2>L2 Name A</td> |
+| GPIO 1 | DI |  |
 | GPIO 4 | DE | - |
 | GPIO 15 | RE | - |
 | 3.3v | VCC | - |
