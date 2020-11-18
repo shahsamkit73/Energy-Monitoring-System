@@ -24,15 +24,15 @@ Energy is the most salient part of our life nowadays. It has also been pivotal a
 #### Cicuit Connection ####
 
 | ESP32  | RS485 | Energy  Meter |
-| :-------------: | :-------------: | :-------------: 
-| GPIO 3 | RO <td rowspan=8>L1 Name</td> 
-| GPIO 1 | DI 
-| GPIO 4 | DE 
-| GPIO 15 | RE 
-| 3.3v | VCC 
-| GND | GND 
-| 1 | A 
-| 1 | B  
+| :-------------: | :-------------: | :-------------: |
+| GPIO 3 | RO | - |
+| GPIO 1 | DI | - |
+| GPIO 4 | DE | - |
+| GPIO 15 | RE | - |
+| 3.3v | VCC | - |
+| GND | GND | - |
+| 1 | A | D+ |
+| 1 | B | D- |
 
 #### Modbus Library Function ####
 
