@@ -1,4 +1,4 @@
-# Energy-monitoring-system
+# Energy-Monitoring-System
 
 Energy is the most salient part of our life nowadays. It has also been pivotal aspect for household as well as industrial usage. Managing the energy efficiently and conserving it smartly for appliances is very much essential. In addition to this, a lot of research work has been carried out in developing a robust system pertaining to save energy. Industrial Internet of Things (IIoT) has outranked all other technologies and still have been developing in leaps and bounds which gives liberty of data observation at our palm using any radio communication device. Consequently, in this growing technological epoch, industrial data acquisition and monitoring is now the major matter of concern and demand. Hence, the prime goal of this IoT enabled system is to render commercial data to be processed intelligently through wireless communication and further cloud computing. This system uses esp32 with MODBUS communication protocol and projects the data fetched by sensors on the sign up portal by furnishing ease and rapidity of data communication.
 
