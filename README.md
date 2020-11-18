@@ -4,7 +4,7 @@ Energy is the most salient part of our life nowadays. It has also been pivotal a
 
 ### Dependencies & Libraries ###
 * #### Energy Meter - [DPM C501L](https://www.deltaww.com/Products/CategoryListT1.aspx?CID=060404&PID=4079&hl=en-US&Name=DPM-C501L)
-* #### ESP32 IoT chip
+* #### ESP32 IoT Develoment Board
 * #### MODBUS coommunication module - [RS-485](https://www.amazon.in/Generic-Max485-Rs-485-Arduino-Raspberry/dp/B01EE3N83Y)
 * #### Arduino Environment - [ArduinoIDE](https://www.arduino.cc/en/software)
 * #### MODBUS library - [ModbusMaster](https://github.com/4-20ma/ModbusMaster)
