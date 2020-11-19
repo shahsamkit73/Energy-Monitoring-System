@@ -4,8 +4,8 @@ Energy is the most salient part of our life nowadays. It has also been pivotal a
 
 ### Dependencies & Libraries ###
 * #### Energy Meter - [DPM C501L](https://www.deltaww.com/Products/CategoryListT1.aspx?CID=060404&PID=4079&hl=en-US&Name=DPM-C501L)
-* #### ESP32 IoT Develoment Board
-* #### MODBUS coommunication module - [RS-485](https://www.amazon.in/Generic-Max485-Rs-485-Arduino-Raspberry/dp/B01EE3N83Y)
+* #### ESP32 IoT Development Board
+* #### MODBUS communication module - [RS-485](https://www.amazon.in/Generic-Max485-Rs-485-Arduino-Raspberry/dp/B01EE3N83Y)
 * #### Arduino Environment - [ArduinoIDE](https://www.arduino.cc/en/software)
 * #### MODBUS library - [ModbusMaster](https://github.com/4-20ma/ModbusMaster)
 * #### MODBUS Software - [Simply Modbus](https://www.simplymodbus.ca/RTUmaster.htm)
@@ -69,4 +69,4 @@ Energy = 42.5 kWh
 Second = 7
 ~~~
 
-> **IMPORTANT: `Baud rate` and `Slave ID` of you device should be as same as mentioned in the code.**
+**IMPORTANT: `Baud rate` and `Slave ID` of you device should be as same as mentioned in the code.**
