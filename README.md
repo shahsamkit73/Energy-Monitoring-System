@@ -18,8 +18,12 @@ Energy is the most salient part of our life nowadays. It has also been pivotal a
 5. To verify whether the esp32 board has been successfully installed, go to **Tools > Board** and select **_ESP32 Dev Module_**
 
 ### How to install _`ModbusMaster.h`_ in Arduino IDE :
+#### Method 1 ####
 1. Go to **Tools > Board > Boards Manager** and open Boards Manager
 2. Search for **Modbus** and press install **_ModbusMaster_**
+
+#### Method 2 ####
+1. Go to **My Computer > Documents > Arduino > Libraries** and paste the unzipped folder named [ModbusMaster](https://github.com/4-20ma/ModbusMaster) downloaded from github 
 
 #### Cicuit Connection ####
 
@@ -53,3 +57,16 @@ Registers
 * **0x10** - Write Multiple Registers
 * **0x16** - Mask Write Register
 * **0x17** - Read Write Multiple Registers
+
+### Output ###
+~~~
+For example,
+
+Phase A Voltage = 238.45 V
+Phase A Current = 5.314 A
+Phase A Power = 35.44 W
+Energy = 42.5 kWh
+Second = 7
+~~~
+
+#### **IMPORTANT: `Baud rate` and `Slave ID` of you device should be as same as mentioned in the code.**
