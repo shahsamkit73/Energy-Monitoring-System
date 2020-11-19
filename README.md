@@ -23,7 +23,7 @@ Energy is the most salient part of our life nowadays. It has also been pivotal a
 2. Search for **Modbus** and press install **_ModbusMaster_**
 
 * **Method 2**
-1. Go to **My Computer > Documents > Arduino > Libraries** and paste the unzipped folder named [ModbusMaster](https://github.com/4-20ma/ModbusMaster) downloaded from github 
+1. Go to **My Computer > Documents > Arduino > Libraries** and paste the unzipped folder named [ModbusMaster](https://github.com/4-20ma/ModbusMaster) downloaded from github (_This `Modbusmaster` zipped file is also available in this repository above_) 
 
 ### Circuit Connection ###
 
