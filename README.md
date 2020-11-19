@@ -18,14 +18,18 @@ Energy is the most salient part of our life nowadays. It has also been pivotal a
 5. To verify whether the esp32 board has been successfully installed, go to **Tools > Board** and select **_ESP32 Dev Module_**
 
 ### How to install _`ModbusMaster.h`_ in Arduino IDE :
-#### Method 1 ####
+* **Method 1**
 1. Go to **Tools > Board > Boards Manager** and open Boards Manager
 2. Search for **Modbus** and press install **_ModbusMaster_**
 
-#### Method 2 ####
+* **Method 2**
 1. Go to **My Computer > Documents > Arduino > Libraries** and paste the unzipped folder named [ModbusMaster](https://github.com/4-20ma/ModbusMaster) downloaded from github 
 
-#### Cicuit Connection ####
+### Circuit Connection ###
+
+<p align="center">
+  <img width="3000" height="500" src="https://user-images.githubusercontent.com/43854300/99538313-cf234c00-29d2-11eb-8581-36d8e25af3e4.PNG">
+</p>
 
 | ESP32  | RS485 | Energy  Meter |
 | :-------------: | :-------------: | :-------------: |
@@ -37,10 +41,6 @@ Energy is the most salient part of our life nowadays. It has also been pivotal a
 | GND | GND | - |
 | - | A | D+ |
 | - | B | D- |
-
-<p align="center">
-  <img width="3000" height="500" src="https://user-images.githubusercontent.com/43854300/99538313-cf234c00-29d2-11eb-8581-36d8e25af3e4.PNG">
-</p>
 
 #### Modbus Library Function ####
 
@@ -69,4 +69,4 @@ Energy = 42.5 kWh
 Second = 7
 ~~~
 
-#### **IMPORTANT: `Baud rate` and `Slave ID` of you device should be as same as mentioned in the code.**
+> **IMPORTANT: `Baud rate` and `Slave ID` of you device should be as same as mentioned in the code.**
