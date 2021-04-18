@@ -28,7 +28,7 @@ Energy is the most salient part of our life nowadays. It has also been pivotal a
 ### Circuit Connection ###
 
 <p align="center">
-  <img width="3000" height="500" src="https://user-images.githubusercontent.com/43854300/115135356-9c3ebc00-a035-11eb-87c8-7300db4ad9fe.PNG"
+  <img width="3000" height="500" src="https://user-images.githubusercontent.com/43854300/115135438-0fe0c900-a036-11eb-9a88-16023dde6c4c.PNG"
 </p>
 
 | ESP32  | RS485 | Energy  Meter |
